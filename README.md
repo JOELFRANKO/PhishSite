@@ -1,6 +1,6 @@
 # Phishing Website Detector
 
-It is a Phishing website deteting android application
+It is a Phishing website deteting android application.
 
 <h2>Screen shots</h2>
 
